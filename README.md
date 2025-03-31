@@ -1,12 +1,12 @@
-This is the *Coffee Machine Simulator with Java* project I made myself.
+This is the Coffee Machine Simulator with Java project I made myself.
 
+In this project, I managed to successfully implement:
+- Write a program that puts some basic information on the screen: let the machine describe what it takes to make a cup of coffee!
+- Program the machine to calculate the amount of ingredients it needs depending on how many people want some coffee.
+- Working with conditions, program the machine to estimate how many creamy coffees it can make based on the amount of ingredients we enter.
+- Write for the coffee machine to perform three basic actions: collect the money, renew the supplies, and serve the coffee.
+- Program the machine to display on the screen the amount of supplies left. Set the main loop: now the menu keeps updating until you enter “exit”.
+- Time for some final touch-ups: structure the code so that it runs smoothly.
+  
 
-<div>
-<p>What can be better than a cup of coffee during a break? A coffee that you don’t have to make yourself. It’s enough to press a couple of buttons on the machine and you get a cup of energy; but first, we should teach the machine how to do it.<br>
-In this project, you'll program a coffee machine simulator using Java. The machine works with typical products: coffee, milk, sugar, and plastic cups; if it runs out of something, it shows a notification. You can get three types of coffee: espresso, cappuccino, and latte. Since nothing’s for free, it also collects the money.<br>
-This project allows you to better understand the basic OOP, its main concepts such as classes, class methods and attributes, and get a taste of Java. Practice working with methods, challenge yourself with loops and conditions, and get more confident with OOP.</p>
-</div><br/><br/>Learn more at <a href="https://hyperskill.org/projects/33?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/33</a>
-
-Here's the link to the project: https://hyperskill.org/projects/33
-
-Check out my profile: https://hyperskill.org/profile/619182939
+My JetBrains Academy profile: https://hyperskill.org/profile/619182939
